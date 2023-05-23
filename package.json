@@ -20,6 +20,7 @@
     "express": "^4.17.3",
     "jsonwebtoken": "^9.0.0",
     "my-sql": "^1.2.15",
+    "mysql2": "^3.3.2",
     "nodemon": "^2.0.15",
     "react-icons": "^4.3.1"
   }
